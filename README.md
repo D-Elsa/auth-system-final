@@ -11,7 +11,7 @@ Outils utilisés:
 
 initialisation du projet:
 
-git clone https://github.com/D-Elsa/auth-system.git
+git clone https://github.com/D-Elsa/auth-system-final
 
 1) Entrer dans le dossier auth-system
 2) Lancer npm install
