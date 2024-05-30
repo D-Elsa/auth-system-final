@@ -8,6 +8,10 @@ Outils utilisés:
     - Express: utilisé pour le backend
     - Novu ; utilisé pour mettre en place le système de vérification de numéro de téléphone. https://novu.co/
 
+❓❓❓RAPPEL❓❓❓
+    Le Format de numéro pris en compte est le : 00-indicateur du pays-Numero
+    Par exemple : 0033778858934
+❓❓❓❓❓❓❓❓
 
 initialisation du projet:
 
